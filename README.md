@@ -1,22 +1,22 @@
 <img align="right" width="150" height="150" top="100" src="./assets/readme.jpg">
 
-# femplate • [![tests](https://github.com/abigger87/femplate/actions/workflows/tests.yml/badge.svg)](https://github.com/abigger87/femplate/actions/workflows/tests.yml) [![lints](https://github.com/abigger87/femplate/actions/workflows/lints.yml/badge.svg)](https://github.com/abigger87/femplate/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/abigger87/femplate)  ![GitHub package.json version](https://img.shields.io/github/package-json/v/abigger87/femplate)
+# superdepositor • [![tests](https://github.com/abigger87/superdepositor/actions/workflows/tests.yml/badge.svg)](https://github.com/abigger87/superdepositor/actions/workflows/tests.yml) [![lints](https://github.com/abigger87/superdepositor/actions/workflows/lints.yml/badge.svg)](https://github.com/abigger87/superdepositor/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/abigger87/superdepositor)  ![GitHub package.json version](https://img.shields.io/github/package-json/v/abigger87/superdepositor)
 
 
 Robust Template for Foundry Projects.
 
 ## Getting Started
 
-Click `use this template` on [Github](https://github.com/abigger87/femplate) to create a new repository with this repo as the initial state.
+Click `use this template` on [Github](https://github.com/abigger87/superdepositor) to create a new repository with this repo as the initial state.
 
 Or, if your repo already exists, run:
 ```sh
-forge init --template https://github.com/abigger87/femplate
+forge init --template https://github.com/abigger87/superdepositor
 git submodule update --init --recursive
 forge install
 ```
 
-Run `make rename` to rename all instances of `femplate` with the name of your project/repository.
+Run `make rename` to rename all instances of `superdepositor` with the name of your project/repository.
 
 ## Blueprint
 
@@ -102,7 +102,7 @@ For a full list of configuration options, see the Foundry [configuration documen
 
 ## License
 
-[AGPL-3.0-only](https://github.com/abigger87/femplate/blob/master/LICENSE)
+[AGPL-3.0-only](https://github.com/abigger87/superdepositor/blob/master/LICENSE)
 
 ## Acknowledgements
 
